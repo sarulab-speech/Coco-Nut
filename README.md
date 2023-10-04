@@ -2,22 +2,25 @@
 
 Japanese follows English. / 日本語の記述は英語に続きます．
 
-Coco-Nut corpus is an corpus including Japanese speech and it's voice characteristics descriptions.
+The Coco-Nut corpus is a corpus including Japanese voice and free-form texts describing the voice characteristics (hereinafter, characteristics prompt.)
 
-Coco-Nutコーパスは日本語音声および話者の声質を表現する自由記述文を含む音声合成用のコーパスです．
+Coco-Nutコーパスは日本語音声および声質を表現する自由記述文を含むコーパスです．
 
 Project page: https://sites.google.com/site/shinnosuketakamichi/research-topics/coconut_corpus
 
 ## Description / 内容
 
-This corpus consists of speech audio, transcription and voice characteristics description.
+This corpus consists of voices, transcriptions, and characteristics prompts.
 
-The voice characteristics descriptions are in this repository, separated into train, validation, and test csv files. These csv files include:
+This repository provides the characteristics prompts, separated into train, validation, and test csv files. These csv files include:
 
-* segment id (corresponding to wav file names)
-* characteristics_prompt_1~5
-  * more than 1 per segment in train set, 5 for validation and test sets.
-* annotator_1~5
+* segment ID
+* characteristics_prompt_[prompt ID]
+  * each voice can have the multiple charactersitics prompts
+    * more than 1 per segment in train set, 5 for validation and test sets.
+  * prompt ID (1-5) specifies the prompt associated with the same voice.
+* annotator_[prompt ID]
+  * annotator name who wrote the characteristics prompt with same prompt ID.
   * note that the same annotator writes several characteristics prompts.
 
 The speech audio and transcriptions are currently in preparation. We plan to distribute them through the Informatics Research Data Repository (https://www.nii.ac.jp/dsc/idr/index.html).
@@ -36,7 +39,7 @@ The speech audio and transcriptions are currently in preparation. We plan to dis
 
 ## Terms of use / 使い方
 
-The voice characteristics descriptions within this repository is licensed under CC BY 4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). For the speech audio and transcriptions, the terms of use will adhere to the guidelines specified by the Informatics Research Data Repository.
+The characteristics prompts within this repository is licensed under CC BY 4.0 ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)). For the voices and transcriptions, the terms of use will adhere to the guidelines specified by the Informatics Research Data Repository.
 
 本リポジトリ内の声質表現文はCC BY 4.0（[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)）にてライセンスされます．音声データと書き起こし文は，音声資源コンソーシアムの利用規約に基づいて使用してください．
 
