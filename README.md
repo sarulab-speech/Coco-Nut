@@ -38,7 +38,7 @@ The voices and transcriptions are currently in preparation. We plan to distribut
   - prompt ID を付けたアノテータの名称
   - 1人のアノテータが複数の音声セグメントに対して声質表現文を付与しています．
 
-音声及び書き起こし文は情報学研究データリポジトリ（https://www.nii.ac.jp/dsc/idr/index.html）を通しての配布を予定しています．
+音声及び書き起こし文は情報学研究データリポジトリ（[https://www.nii.ac.jp/dsc/idr/index.html](https://www.nii.ac.jp/dsc/idr/index.html)）を通しての配布を予定しています．
 
 ## Terms of use / 使い方
 
