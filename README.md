@@ -25,8 +25,6 @@ This repository provides the characteristics prompts, separated into train, vali
 
 We plan to distribute voices and transcriptions through the Informatics Research Data Repository (https://www.nii.ac.jp/dsc/idr/index.html).
 
-The voices and transcriptions are currently in preparation. We plan to distribute them through the Informatics Research Data Repository ([https://www.nii.ac.jp/dsc/idr/index.html](https://www.nii.ac.jp/dsc/idr/index.html)).
-
 このコーパスは日本語音声と書き起こし文，および声質表現文からなります．
 
 声質表現文はこちらのリポジトリで公開します．学習・検証・評価セットに分けてcsvファイルに記述しております．内容は以下のとおりです
