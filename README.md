@@ -6,7 +6,7 @@ The Coco-Nut corpus is a corpus including Japanese voice and free-form texts des
 
 Coco-Nutコーパスは日本語音声および声質を表現する自由記述文（声質表現文）を含むコーパスです．
 
-Project page: https://sites.google.com/site/shinnosuketakamichi/research-topics/coconut_corpus
+Project page: [https://sites.google.com/site/shinnosuketakamichi/research-topics/coconut_corpus](https://sites.google.com/site/shinnosuketakamichi/research-topics/coconut_corpus)
 
 ## Description / 内容
 
@@ -24,6 +24,8 @@ This repository provides the characteristics prompts, separated into train, vali
   * Note that the same annotator writes several characteristics prompts.
 
 We plan to distribute voices and transcriptions through the Informatics Research Data Repository (https://www.nii.ac.jp/dsc/idr/index.html).
+
+The voices and transcriptions are currently in preparation. We plan to distribute them through the Informatics Research Data Repository ([https://www.nii.ac.jp/dsc/idr/index.html](https://www.nii.ac.jp/dsc/idr/index.html)).
 
 このコーパスは日本語音声と書き起こし文，および声質表現文からなります．
 
