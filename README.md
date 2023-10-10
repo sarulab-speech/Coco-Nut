@@ -58,12 +58,8 @@ Hiroshi Saruwatari / 猿渡 洋 (University of Tokyo / 東京大学)
 
 ## Paper / 論文
 
-Aya Watanabe, Shinnosuke Takamichi, Yuki Saito, Wataru Nakata, Detai Xin, Hiroshi Saruwatari,
-"Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control,"
-Proc. ASRU, 2023.
-渡邊 亞椰，高道 慎之介，齋藤 佑樹，辛 徳泰，猿渡 洋，
-"Coco-Nut: 自由記述文による声質制御に向けた多話者音声・声質自由記述ペアデータセット,"
-日本音響学会2023年秋季研究発表会, 2023.
+Aya Watanabe, Shinnosuke Takamichi, Yuki Saito, Wataru Nakata, Detai Xin, Hiroshi Saruwatari, "Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control," Proc. ASRU, 2023.
+渡邊 亞椰，高道 慎之介，齋藤 佑樹，辛 徳泰，猿渡 洋，"Coco-Nut: 自由記述文による声質制御に向けた多話者音声・声質自由記述ペアデータセット," 日本音響学会2023年秋季研究発表会, 2023.
 
 ## Contact
 
